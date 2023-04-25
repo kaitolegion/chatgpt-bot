@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"bd03b55fadeec4bd93ff409f90df4157","lockfileHash":"abad8bc1994cade97a0cda170b8d64ab","guessedImports":["axios","uuid","fb-api","openweathermap-node","openai"],"guessedImportsHash":"255c508a5a8eb08f6c9e628dc16eb7bd"}}}
